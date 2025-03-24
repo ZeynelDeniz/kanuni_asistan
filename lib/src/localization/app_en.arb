@@ -1,0 +1,9 @@
+{
+  "appTitle": "Kanuni Assistant",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "theme": "Theme",
+  "homeScreenTitle": "Home",
+  "homeScreenBody": "Welcome to the Home Screen"
+}

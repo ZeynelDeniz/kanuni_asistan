@@ -1,0 +1,9 @@
+{
+  "appTitle": "Kanuni Asistan",
+  "@appTitle": {
+    "description": "Uygulama Başlığı"
+  },
+  "theme": "Tema",
+  "homeScreenTitle": "Ana Sayfa",
+  "homeScreenBody": "Ana Sayfaya Hoşgeldiniz"
+}
