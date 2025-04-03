@@ -41,3 +41,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Prevent tracking of api_info.dart file
+lib/constants/api_info.dart
