@@ -4,6 +4,7 @@ import 'dart:io';
 import '../src/settings/settings_controller.dart';
 import 'app_drawer.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'app_bottom_bar.dart';
 
 class BaseScaffold extends StatelessWidget {
   const BaseScaffold({

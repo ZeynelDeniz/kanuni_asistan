@@ -20,6 +20,11 @@ class AppDrawer extends StatelessWidget {
         dRoute: "/",
         icon: Icons.home,
       ),
+      DrawerItem(
+        dTitle: AppLocalizations.of(context)!.chatScreenTitle,
+        dRoute: "/chat",
+        icon: Icons.chat,
+      ),
     ];
 
     return Drawer(

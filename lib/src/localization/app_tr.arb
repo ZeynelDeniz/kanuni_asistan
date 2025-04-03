@@ -5,5 +5,17 @@
   },
   "theme": "Tema",
   "homeScreenTitle": "Ana Sayfa",
-  "homeScreenBody": "Ana Sayfaya Hoşgeldiniz"
+  "homeScreenBody": "Ana Sayfaya Hoşgeldiniz",
+  "chatScreenTitle": "AI Asistan",
+  "chatScreenInputHint": "Mesajınızı girin",
+  "chatScreenSendButton": "Gönder",
+  "chatScreenTypingIndicator": "Yazıyor...",
+  "question1": "Ders kaydını nasıl yapabilirim?",
+  "question2": "Ödevlere nereden bakabilirim?",
+  "question3": "Üniversite topluluklarına nereden katılabilirim?",
+  "question4": "Online ders ve ders kaynaklarına nereden ulaşabilirim?",
+  "question5": "Kampüs hakkında genel bilgi verebilir misin?",
+  "language": "Dil",
+  "noConnection" : "Internet bağlantınızı kontrol edin.",
+  "search": "Arama"
 }

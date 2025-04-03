@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import '../screens/home_screen.dart';
+import '../screens/chat_screen.dart'; // Import ChatScreen
 import '../src/settings/settings_controller.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
@@ -45,6 +46,10 @@ class MyApp extends StatelessWidget {
           GetPage(
             name: HomeScreen.routeName,
             page: () => const HomeScreen(),
+          ),
+          GetPage(
+            name: ChatScreen.routeName, // Add ChatScreen route
+            page: () => ChatScreen(),
           ),
         ],
       );

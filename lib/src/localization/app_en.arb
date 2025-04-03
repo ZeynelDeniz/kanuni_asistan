@@ -5,5 +5,17 @@
   },
   "theme": "Theme",
   "homeScreenTitle": "Home",
-  "homeScreenBody": "Welcome to the Home Screen"
+  "homeScreenBody": "Welcome to the Home Screen",
+  "chatScreenTitle": "AI Assistant",
+  "chatScreenInputHint": "Enter your message",
+  "chatScreenSendButton": "Send",
+  "chatScreenTypingIndicator": "Typing...",
+  "question1": "How can I register for classes?",
+  "question2": "Where can I find my assignments?",
+  "question3": "How can I join university clubs?",
+  "question4": "Where can I access online courses and resources?",
+  "question5": "Can you provide general information about the campus?",
+  "language": "Language",
+  "noConnection": "Check your internet connection.",
+  "search": "Search"
 }
